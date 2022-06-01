@@ -32,6 +32,7 @@ Shows top anime for the specified season
 ![image](https://user-images.githubusercontent.com/92920845/171431050-bd86c724-272d-4034-be73-609d60643c9b.png)
 
 * Credits
+
 Contact details of the author
 
 ![image](https://user-images.githubusercontent.com/92920845/171431104-0cc35e44-bce0-40a2-a9e9-b61cb5d89153.png)
